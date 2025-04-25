@@ -22,7 +22,7 @@ xk6 build --with xk6-filestorage=.
 From remote repository:
 
 ```shell
-xk6 build --with github.com/Gwinkamp/xk6-filestorage
+xk6 build --with github.com/aknis01/xk6-filestorage
 ```
 
 ## Usage
