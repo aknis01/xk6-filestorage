@@ -4,7 +4,7 @@ Extension for [k6](https://k6.io). Allows to manage the file system during the e
 
 ## Requirements
 
-* [Golang 1.22.4](https://go.dev/)
+* [Golang 1.24.2](https://go.dev/)
 * [xk6](https://k6.io/blog/extending-k6-with-xk6/)
 
 ```shell
